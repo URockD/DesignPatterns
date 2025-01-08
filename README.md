@@ -38,7 +38,7 @@ In this repository, the Builder pattern is demonstrated by creating:
 To explore the examples:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/design-principles-dotnet8.git
+   https://github.com/URockD/DesignPatterns.git
    ```
 2. Open the project in your favorite .NET 8-compatible IDE (e.g., Visual Studio 2022, Rider, or Visual Studio Code).
 3. Navigate to the SOLID principles or Builder pattern folder and build/run the examples.
